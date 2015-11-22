@@ -4,3 +4,4 @@
  - commit 2
  - commit 3
  - bug fix
+ - hotfix
